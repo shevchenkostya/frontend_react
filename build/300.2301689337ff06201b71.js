@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkulbi_react=self.webpackChunkulbi_react||[]).push([[300],{300:(e,u,t)=>{t.r(u),t.d(u,{default:()=>r});var c=t(893);const r=function(){return(0,c.jsx)("div",{children:"About"},void 0)}}}]);
