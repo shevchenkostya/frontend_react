@@ -1,4 +1,4 @@
-./build
-./node_modules
+build
+
 .idea
 node_modules
