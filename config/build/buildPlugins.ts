@@ -20,5 +20,7 @@ export function buildPlugins({
     new webpack.DefinePlugin({
       __IS_DEV__: JSON.stringify(isDev),
     }),
+    // обновление в приложении без перезагрузки страницы
+    new webpack.HotModuleReplacementPlugin(),
   ];
 }
